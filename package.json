@@ -18,6 +18,7 @@
   "homepage": "https://github.com/mind28/front-end#readme",
   "dependencies": {
     "react": "^17.0.2",
+    "react-bootstrap": "^2.2.1",
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
